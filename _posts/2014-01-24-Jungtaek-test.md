@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 블로그 첫 입성 
 ---
