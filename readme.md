@@ -1,4 +1,4 @@
-# This is the data for my blog
+# This is the data for our blog
 
 It is automatically transformed by [Jekyll](http://github.com/mojombo/jekyll)
 into a static site whenever I push this repository to GitHub.
@@ -17,7 +17,7 @@ I never lose data again.
 The following directories and their contents are Copyright NMDID lab, Ajou University.
 You may not reuse anything therein without my permission:
 * _posts/
-# images/
+* images/
 
 All other directories and files are MIT Licensed by Tom Preston-Werner. 
 Feel free to use the HTML and CSS as you please.
