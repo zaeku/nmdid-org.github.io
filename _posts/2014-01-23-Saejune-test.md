@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Saejune
 author: <a href="https://plus.google.com/109830927523901975694?rel=author">박세준</a>
