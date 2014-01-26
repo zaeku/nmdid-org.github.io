@@ -1,2 +1,6 @@
 markdown: rdiscount
 pygments: true
+timezone: Asia/Seoul
+encoding: UTF-8
+permalink: /:year/:month/:title.html
+baseurl: http://journalclub.nmdid.org
